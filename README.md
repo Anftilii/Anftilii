@@ -6,7 +6,7 @@ from an idea to something deployed and used.
 
 - 🌍 Košice, Slovakia — open to full-time or part-time, on-site or remote
 - 🎓 Bc. in Computer Science, TU Košice (2022–2026); thesis on CNNs for medical images (PyTorch)
-- 🗣️ Ukrainian (native) · Slovak (working proficiency) · English (B1–B2) · Russian (fluent)
+- 🗣️ Ukrainian (native) · Slovak (C1) · Russian (C1) · English (B2)
 - 📫 toliaporplycia@gmail.com
 
 ### Projects
